@@ -1,7 +1,6 @@
-/*
-/**
-/*** 
-/*****
+>*
+>**
+
 Write a function that will print stars N times
 in the above format
 
