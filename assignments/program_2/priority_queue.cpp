@@ -46,7 +46,6 @@ struct Node {
 * Methods:
 *   void Queue()
 *   void readFile()
-*   void writeFile()
 *   string pop()
 *   void push(string v)
 *   bool empty()
