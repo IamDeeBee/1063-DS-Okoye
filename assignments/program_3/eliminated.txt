@@ -1,0 +1,266 @@
+///////////////////////////////////////////////////////////////////////////////////////////
+ ProgramName: LuckyOnes
+Author: Nodebechukwu Okoye
+Description: 
+    This program eliminates items at random in a list till one item remains
+Course: 1063 Data Structures
+Semester: Spring 2018
+Date: 21 04 2018
+/////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+
+
+
+
+At11, Deleted gazelle
+
+
+
+
+
+
+
+
+
+
+
+At22, Deleted jaguar
+
+
+
+
+
+
+
+
+
+
+
+At33, Deleted chamois
+
+
+
+
+
+
+
+
+
+
+
+At44, Deleted jackal
+
+
+
+
+
+
+
+
+
+
+
+At55, Deleted tapir
+
+
+
+
+
+
+
+
+
+
+
+At66, Deleted heron
+
+
+
+
+
+
+
+
+
+
+
+At77, Deleted vulture
+
+
+
+
+
+
+
+
+
+
+
+At88, Deleted snail
+
+
+
+
+
+
+
+
+
+
+
+At99, Deleted caribou
+
+
+
+
+
+
+
+
+
+
+
+At110, Deleted capybara
+
+
+
+
+
+
+
+
+
+
+
+At121, Deleted rhinoceros
+
+
+
+
+
+
+
+
+
+
+
+At132, Deleted gerbil
+
+
+
+
+
+
+
+
+
+
+
+At143, Deleted wallaby
+
+
+
+
+
+
+
+
+
+
+
+At154, Deleted spider
+
+
+
+
+
+
+
+
+
+
+
+At165, Deleted termite
+
+
+
+
+
+
+
+
+
+
+
+At176, Deleted flamingo
+
+
+
+
+
+
+
+
+
+
+
+At187, Deleted okapi
+
+
+
+
+
+
+
+
+
+
+
+At198, Deleted crocodile
+
+
+
+
+
+
+
+
+
+
+
+At209, Deleted wren
+
+
+
+
+
+
+
+
+
+
+
+At220, Deleted porpoise
+
+
+
+
+
+
+
+
+
+
+
+At231, Deleted cat
+
+
+
+
+
+Winner : bat
